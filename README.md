@@ -255,3 +255,19 @@ Subseção 6.5.1.3: a estrutura de turnos fixos já satisfaz o art. 66 da CLT po
 construção, com folga de mais de três horas sobre o mínimo legal.
 
 Suíte: 37 testes, 4 subtestes, todos passando.
+
+---
+
+## Licença
+
+Este projeto é distribuído sob a **Licença MIT** — veja o arquivo
+[`LICENSE`](LICENSE). O uso, a cópia e a modificação são livres, inclusive para
+fins comerciais, desde que o aviso de autoria seja mantido.
+
+Ao citar ou estender este trabalho em contexto acadêmico, referencie:
+
+> VASQUES, Cristiam. **Motor algorítmico para escalonamento de analistas em
+> Centros de Operações de Rede: modelagem por restrições e otimização
+> combinatória**. 2026. Trabalho de Conclusão de Curso (Especialização em
+> Tecnologias e Sistemas de Informação) — Universidade Federal do ABC, Santo
+> André, 2026.
