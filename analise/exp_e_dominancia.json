@@ -1,0 +1,2792 @@
+[
+ {
+  "seed": 1,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.191644566169817,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46043738119589206,
+    "f_balanceamento": 2196.0429931972676,
+    "f_senioridade": 6.0,
+    "f_atendimento": 886.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4918240307444016,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.97219614979308,
+    "amplitude_media_por_equipe": 60.133333333333326,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45230464992190617,
+    "f_balanceamento": 2312.20299319712,
+    "f_senioridade": 5.0,
+    "f_atendimento": 878.0,
+    "alocacoes_superqualificadas": 5,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47135093329653105,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.0591548131767,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43528995145052746,
+    "f_balanceamento": 3144.682993197258,
+    "f_senioridade": 0.0,
+    "f_atendimento": 838.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45087783584866037,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.349685038133973,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4345759266172087,
+    "f_balanceamento": 1791.9029931971843,
+    "f_senioridade": 10.0,
+    "f_atendimento": 893.0,
+    "alocacoes_superqualificadas": 10,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47908704203054214,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.308053784114172,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4283582315920981,
+    "f_balanceamento": 2198.4629931972677,
+    "f_senioridade": 6.0,
+    "f_atendimento": 861.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4558482157471322,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.312602465691228,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4104476354561074,
+    "f_balanceamento": 3205.1829931972925,
+    "f_senioridade": 0.0,
+    "f_atendimento": 813.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4326093894637223,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": -1.7763568394002505e-15,
+    "custo_F": 0.4401075039979791,
+    "f_balanceamento": 1880.2329931972338,
+    "f_senioridade": 9.0,
+    "f_atendimento": 874.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4839917050109135,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.60491616427232,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43250361293960615,
+    "f_balanceamento": 2093.1929931972527,
+    "f_senioridade": 7.0,
+    "f_atendimento": 858.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45784809736425874,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.312602465691228,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4129590647000268,
+    "f_balanceamento": 3205.182993197289,
+    "f_senioridade": 0.0,
+    "f_atendimento": 802.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43170448971760395,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.475264191142994,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41605168516855795,
+    "f_balanceamento": 2073.832993197281,
+    "f_senioridade": 7.0,
+    "f_atendimento": 844.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4519303821438886,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.187846373321747,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4051215283083208,
+    "f_balanceamento": 2179.1029931971498,
+    "f_senioridade": 6.0,
+    "f_atendimento": 836.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4256423961032051,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 26.93274257222757,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.09032258064515,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.3854674641586579,
+    "f_balanceamento": 3114.4329931972834,
+    "f_senioridade": 0.0,
+    "f_atendimento": 788.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 269.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.39935441006252154,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.475264191142994,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44303065154718174,
+    "f_balanceamento": 2073.8329931972503,
+    "f_senioridade": 7.0,
+    "f_atendimento": 896.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47721136224098015,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.187846373321747,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4346182617802944,
+    "f_balanceamento": 2179.102993197207,
+    "f_senioridade": 6.0,
+    "f_atendimento": 888.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45409351184010466,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 26.793750858163175,
+    "amplitude_media_por_equipe": 71.13333333333333,
+    "carga_media_h": 73.80645161290322,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4162465118725966,
+    "f_balanceamento": 3081.7629931972724,
+    "f_senioridade": 0.0,
+    "f_atendimento": 840.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 268.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43097566143922916,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 872.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.108991516502186,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4671267825459567,
+    "f_balanceamento": 1886.2829931971976,
+    "f_senioridade": 9.0,
+    "f_atendimento": 871.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5069069025622787,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 849.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.309437139443226,
+    "amplitude_media_por_equipe": 62.33333333333332,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46258129436022055,
+    "f_balanceamento": 2370.282993197293,
+    "f_senioridade": 5.0,
+    "f_atendimento": 839.0,
+    "alocacoes_superqualificadas": 5,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4874360861244563,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 849.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.542043496565313,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44478749489915775,
+    "f_balanceamento": 3260.8429931972887,
+    "f_senioridade": 0.0,
+    "f_atendimento": 799.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4679652696866338,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 849.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.762682008964244,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4433154752535689,
+    "f_balanceamento": 1968.5629931972055,
+    "f_senioridade": 8.0,
+    "f_atendimento": 916.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4757562855134351,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.187846373321747,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43540935832565947,
+    "f_balanceamento": 2179.1029931972453,
+    "f_senioridade": 6.0,
+    "f_atendimento": 898.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4524813296688269,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 26.864864798944584,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 73.80645161290322,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41748632204758374,
+    "f_balanceamento": 3098.7029931972884,
+    "f_senioridade": 0.0,
+    "f_atendimento": 850.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 268.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.42920637382421883,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.349685038133973,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45411201377921995,
+    "f_balanceamento": 1791.9029931972143,
+    "f_senioridade": 10.0,
+    "f_atendimento": 822.0,
+    "alocacoes_superqualificadas": 10,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4969414540563008,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 790.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.376023185558687,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4469143427915165,
+    "f_balanceamento": 2209.3529931972726,
+    "f_senioridade": 6.0,
+    "f_atendimento": 790.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47317648661224654,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 790.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.439014706640357,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.42653419152019023,
+    "f_balanceamento": 3235.432993197289,
+    "f_senioridade": 0.0,
+    "f_atendimento": 742.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4494115191681922,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 790.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.76876570572786,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4354494921545507,
+    "f_balanceamento": 1985.5029931972833,
+    "f_senioridade": 8.0,
+    "f_atendimento": 883.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47234650568137443,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 841.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.191644566169817,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.42453687435160725,
+    "f_balanceamento": 2196.042993197286,
+    "f_senioridade": 6.0,
+    "f_atendimento": 867.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44272864780643084,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 841.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.267807729001373,
+    "amplitude_media_por_equipe": 77.73333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4030551755585955,
+    "f_balanceamento": 3195.5029931972895,
+    "f_senioridade": 0.0,
+    "f_atendimento": 815.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4131107899314872,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 841.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 10,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.108991516502186,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.42999810690068707,
+    "f_balanceamento": 1886.2829931972603,
+    "f_senioridade": 9.0,
+    "f_atendimento": 811.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4782661028683552,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 797.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.648441575015926,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": -1.7763568394002505e-15,
+    "custo_F": 0.4217215130362876,
+    "f_balanceamento": 2099.2429931972065,
+    "f_senioridade": 7.0,
+    "f_atendimento": 795.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4525464675052582,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 797.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.542043496565313,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4011885519090902,
+    "f_balanceamento": 3260.842993197287,
+    "f_senioridade": 0.0,
+    "f_atendimento": 739.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.426826832142161,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 797.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 11,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.360284160624733,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4410746227295528,
+    "f_balanceamento": 1808.8429931972544,
+    "f_senioridade": 10.0,
+    "f_atendimento": 867.0,
+    "alocacoes_superqualificadas": 10,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4804019173102869,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 825.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.648441575015926,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43398998718798637,
+    "f_balanceamento": 2099.2429931972592,
+    "f_senioridade": 7.0,
+    "f_atendimento": 843.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4555360216074154,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 825.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.542043496565313,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41497679908380064,
+    "f_balanceamento": 3260.842993197298,
+    "f_senioridade": 0.0,
+    "f_atendimento": 787.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4306701259045439,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 825.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 12,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44914435396678853,
+    "f_balanceamento": 1880.232993197292,
+    "f_senioridade": 9.0,
+    "f_atendimento": 878.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.48664074600104923,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 826.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.631215096384732,
+    "amplitude_media_por_equipe": 62.33333333333333,
+    "carga_media_h": 73.80645161290322,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43732597490090264,
+    "f_balanceamento": 2491.282993197299,
+    "f_senioridade": 4.0,
+    "f_atendimento": 826.0,
+    "alocacoes_superqualificadas": 4,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 268.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4571819052414582,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 826.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.026609414447854,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.09032258064515,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4124707182483639,
+    "f_balanceamento": 3138.6329931972923,
+    "f_senioridade": 0.0,
+    "f_atendimento": 792.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 269.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4277230644818669,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 826.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 13,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.76876570572786,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44678600065500396,
+    "f_balanceamento": 1985.5029931972779,
+    "f_senioridade": 8.0,
+    "f_atendimento": 903.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47465280471249893,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 857.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 24.411766680007997,
+    "amplitude_media_por_equipe": 64.53333333333333,
+    "carga_media_h": 73.80645161290322,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43757184986581976,
+    "f_balanceamento": 2607.442993197272,
+    "f_senioridade": 3.0,
+    "f_atendimento": 855.0,
+    "alocacoes_superqualificadas": 3,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 268.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45240220298301137,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 857.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 26.912153475997723,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 73.80645161290322,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41829233123007903,
+    "f_balanceamento": 3110.802993197287,
+    "f_senioridade": 0.0,
+    "f_atendimento": 831.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 268.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43015160125352375,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 857.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 14,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.821573698680936,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44897191756477184,
+    "f_balanceamento": 1991.5529931972935,
+    "f_senioridade": 8.0,
+    "f_atendimento": 808.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4892839324379302,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 796.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.973188622504505,
+    "amplitude_media_por_equipe": 64.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4420151743797053,
+    "f_balanceamento": 2500.9629931972386,
+    "f_senioridade": 4.0,
+    "f_atendimento": 776.0,
+    "alocacoes_superqualificadas": 4,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4683829288778771,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 796.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.276639541551788,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4220860483427806,
+    "f_balanceamento": 3197.922993197296,
+    "f_senioridade": 0.0,
+    "f_atendimento": 744.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4474819253178238,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 796.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 15,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.76876570572786,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4734510786114289,
+    "f_balanceamento": 1985.502993197256,
+    "f_senioridade": 8.0,
+    "f_atendimento": 768.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5125744769082877,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 742.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.74333902985934,
+    "amplitude_media_por_equipe": 62.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4621337862533783,
+    "f_balanceamento": 2459.82299319723,
+    "f_senioridade": 4.0,
+    "f_atendimento": 734.0,
+    "alocacoes_superqualificadas": 4,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4865250611082574,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 742.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.026609414447854,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.09032258064515,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43853840098750785,
+    "f_balanceamento": 3138.6329931972923,
+    "f_senioridade": 0.0,
+    "f_atendimento": 702.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 269.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46047564530822704,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 742.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 16,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.433809895434763,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 76.0774193548387,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4611343453203583,
+    "f_balanceamento": 1801.582993197175,
+    "f_senioridade": 10.0,
+    "f_atendimento": 869.0,
+    "alocacoes_superqualificadas": 10,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 276.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5174117105433432,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.81002326087679,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 75.79354838709678,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4553802070852777,
+    "f_balanceamento": 2122.2329931972754,
+    "f_senioridade": 7.0,
+    "f_atendimento": 845.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 275.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4939506149530988,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.634095040740185,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.79354838709678,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4356082932329269,
+    "f_balanceamento": 3283.8329931972958,
+    "f_senioridade": 0.0,
+    "f_atendimento": 789.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 275.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4704895193628542,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 865.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 17,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.821573698680936,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4319824493646688,
+    "f_balanceamento": 1991.552993197158,
+    "f_senioridade": 8.0,
+    "f_atendimento": 734.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4758374779183879,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 726.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.973188622504505,
+    "amplitude_media_por_equipe": 64.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4226754616081962,
+    "f_balanceamento": 2500.9629931972804,
+    "f_senioridade": 4.0,
+    "f_atendimento": 702.0,
+    "alocacoes_superqualificadas": 4,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4521190766947558,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 726.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.2087617682688,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.39964638662721397,
+    "f_balanceamento": 3182.1929931972973,
+    "f_senioridade": 0.0,
+    "f_atendimento": 670.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4284006754711237,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 726.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 18,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.76876570572786,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4688744723416354,
+    "f_balanceamento": 1985.502993197177,
+    "f_senioridade": 8.0,
+    "f_atendimento": 870.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5016469867558718,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 840.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.74333902985934,
+    "amplitude_media_por_equipe": 62.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4596732412191963,
+    "f_balanceamento": 2459.822993197233,
+    "f_senioridade": 4.0,
+    "f_atendimento": 832.0,
+    "alocacoes_superqualificadas": 4,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.48133583657107093,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 840.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.105732978343845,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44160981007252476,
+    "f_balanceamento": 3156.78299319729,
+    "f_senioridade": 0.0,
+    "f_atendimento": 800.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46102468638627,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 840.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 19,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 18.653785675209598,
+    "amplitude_media_por_equipe": 46.93333333333332,
+    "carga_media_h": 75.79354838709678,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41773346640767955,
+    "f_balanceamento": 1720.5129931972617,
+    "f_senioridade": 11.0,
+    "f_atendimento": 891.0,
+    "alocacoes_superqualificadas": 11,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 275.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4604811788048161,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 837.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.536946762827807,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4097412789093006,
+    "f_balanceamento": 2082.3029931972496,
+    "f_senioridade": 7.0,
+    "f_atendimento": 859.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4321556894140677,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 837.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.312602465691228,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.3906512362663016,
+    "f_balanceamento": 3205.1829931973307,
+    "f_senioridade": 0.0,
+    "f_atendimento": 803.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.40383020002331915,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 837.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 20,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4595877604128941,
+    "f_balanceamento": 1880.2329931972647,
+    "f_senioridade": 9.0,
+    "f_atendimento": 870.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5047848110755431,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 842.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.323785176210777,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4515488837956694,
+    "f_balanceamento": 2200.882993197293,
+    "f_senioridade": 6.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4779882611471363,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 842.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.198146527241096,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4310319743232753,
+    "f_balanceamento": 3177.352993197289,
+    "f_senioridade": 0.0,
+    "f_atendimento": 798.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45119171121872936,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 842.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 21,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": -1.7763568394002505e-15,
+    "custo_F": 0.4324172717760619,
+    "f_balanceamento": 1880.232993197226,
+    "f_senioridade": 9.0,
+    "f_atendimento": 920.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.473623194164993,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.762682008964244,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.42226866425662424,
+    "f_balanceamento": 1968.5629931972683,
+    "f_senioridade": 8.0,
+    "f_atendimento": 910.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4444965915244574,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.198146527241096,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4037206588448887,
+    "f_balanceamento": 3177.352993197289,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4153699888839218,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 876.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 22,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.360284160624733,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 75.50967741935483,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4298170760993254,
+    "f_balanceamento": 1808.8429931972535,
+    "f_senioridade": 9.0,
+    "f_atendimento": 850.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 274.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4741938287712346,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.536946762827807,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4186168991566389,
+    "f_balanceamento": 2082.302993197266,
+    "f_senioridade": 7.0,
+    "f_atendimento": 822.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44543956400840934,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.173610751626832,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.39750276405558516,
+    "f_balanceamento": 3172.5129931972924,
+    "f_senioridade": 0.0,
+    "f_atendimento": 766.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41668529924558395,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 23,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4359656355528939,
+    "f_balanceamento": 1880.2329931972502,
+    "f_senioridade": 9.0,
+    "f_atendimento": 856.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4724455043873817,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.97219614979308,
+    "amplitude_media_por_equipe": 60.133333333333326,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4278658185964474,
+    "f_balanceamento": 2312.2029931972384,
+    "f_senioridade": 5.0,
+    "f_atendimento": 822.0,
+    "alocacoes_superqualificadas": 5,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4493458393719877,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.0591548131767,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4088634334127154,
+    "f_balanceamento": 3144.682993197287,
+    "f_senioridade": 0.0,
+    "f_atendimento": 782.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4262461743565936,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 820.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 24,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.475264191142994,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4386174896456146,
+    "f_balanceamento": 2073.832993197254,
+    "f_senioridade": 7.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47500108221903486,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 834.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.187846373321747,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4313703207122628,
+    "f_balanceamento": 2179.102993197236,
+    "f_senioridade": 6.0,
+    "f_atendimento": 838.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45442754671886765,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 834.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.071734286291967,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41352090940575137,
+    "f_balanceamento": 3147.1029931972853,
+    "f_senioridade": 0.0,
+    "f_atendimento": 790.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43385401121870043,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 834.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 25,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4695082544155058,
+    "f_balanceamento": 1880.2329931972065,
+    "f_senioridade": 9.0,
+    "f_atendimento": 899.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.512437293881586,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 873.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.308053784114172,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46230459741535784,
+    "f_balanceamento": 2198.4629931972695,
+    "f_senioridade": 6.0,
+    "f_atendimento": 873.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.48911599284621365,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 873.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.312602465691228,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4439484032251344,
+    "f_balanceamento": 3205.1829931972907,
+    "f_senioridade": 0.0,
+    "f_atendimento": 825.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4657946918108412,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 873.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 26,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 19.40249303108705,
+    "amplitude_media_por_equipe": 49.133333333333326,
+    "carga_media_h": 75.79354838709678,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4696601102253595,
+    "f_balanceamento": 1797.9529931971585,
+    "f_senioridade": 10.0,
+    "f_atendimento": 909.0,
+    "alocacoes_superqualificadas": 10,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 275.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.5142538401412793,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 883.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 21.580472173571412,
+    "amplitude_media_por_equipe": 55.73333333333332,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46464802959959334,
+    "f_balanceamento": 2088.352993197256,
+    "f_senioridade": 7.0,
+    "f_atendimento": 885.0,
+    "alocacoes_superqualificadas": 7,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.49277646058662977,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 883.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.415631255616184,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4467484929820941,
+    "f_balanceamento": 3230.5929931972905,
+    "f_senioridade": 0.0,
+    "f_atendimento": 829.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.47129908103198015,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 883.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 27,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.05618352354911,
+    "amplitude_media_por_equipe": 51.33333333333333,
+    "carga_media_h": 75.22580645161288,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4475912804429805,
+    "f_balanceamento": 1880.232993197261,
+    "f_senioridade": 9.0,
+    "f_atendimento": 838.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.49010264061477926,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.308053784114172,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4396661761677718,
+    "f_balanceamento": 2198.4629931972913,
+    "f_senioridade": 6.0,
+    "f_atendimento": 814.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4649131899560828,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.312602465691228,
+    "amplitude_media_por_equipe": 75.53333333333333,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4196105701078976,
+    "f_balanceamento": 3205.1829931972907,
+    "f_senioridade": 0.0,
+    "f_atendimento": 766.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4397237392973863,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 810.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 28,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.490918328962298,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 75.17849462365591,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4568073723144892,
+    "f_balanceamento": 1910.718270974974,
+    "f_senioridade": 9.0,
+    "f_atendimento": 822.0,
+    "alocacoes_superqualificadas": 9,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 273.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4882965297970424,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 772.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 23.024434159140995,
+    "amplitude_media_por_equipe": 60.133333333333326,
+    "carga_media_h": 74.65806451612902,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44132388917528936,
+    "f_balanceamento": 2320.6729931972595,
+    "f_senioridade": 5.0,
+    "f_atendimento": 778.0,
+    "alocacoes_superqualificadas": 5,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 271.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.462264990817582,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 772.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.105732978343845,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.41964474823633435,
+    "f_balanceamento": 3156.78299319729,
+    "f_senioridade": 0.0,
+    "f_atendimento": 738.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43623345183812146,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 772.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 29,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.187846373321747,
+    "amplitude_media_por_equipe": 57.93333333333332,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46932105535794616,
+    "f_balanceamento": 2179.102993197218,
+    "f_senioridade": 6.0,
+    "f_atendimento": 794.0,
+    "alocacoes_superqualificadas": 6,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.48880466480485885,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 756.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 24.339511994093733,
+    "amplitude_media_por_equipe": 64.53333333333333,
+    "carga_media_h": 73.52258064516128,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.45962229342834166,
+    "f_balanceamento": 2562.672993197237,
+    "f_senioridade": 3.0,
+    "f_atendimento": 768.0,
+    "alocacoes_superqualificadas": 3,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 267.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.46840371318815627,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 756.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 26.725873084880188,
+    "amplitude_media_por_equipe": 71.13333333333333,
+    "carga_media_h": 73.52258064516128,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44085406989364717,
+    "f_balanceamento": 3066.0329931972046,
+    "f_senioridade": 0.0,
+    "f_atendimento": 744.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 267.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.44800276157145363,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 756.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ },
+ {
+  "seed": 30,
+  "0.85": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 20.76876570572786,
+    "amplitude_media_por_equipe": 53.533333333333324,
+    "carga_media_h": 74.94193548387096,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": -1.7763568394002505e-15,
+    "custo_F": 0.40343017562481664,
+    "f_balanceamento": 1985.5029931971837,
+    "f_senioridade": 8.0,
+    "f_atendimento": 874.0,
+    "alocacoes_superqualificadas": 8,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 272.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.43998201143067006,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.9": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 22.972232008572973,
+    "amplitude_media_por_equipe": 60.133333333333326,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.3931584875467938,
+    "f_balanceamento": 2343.662993197234,
+    "f_senioridade": 5.0,
+    "f_atendimento": 844.0,
+    "alocacoes_superqualificadas": 5,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.4152936592928804,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  },
+  "0.95": {
+   "motor": {
+    "desvio_padrao_medio_por_equipe": 27.105732978343845,
+    "amplitude_media_por_equipe": 73.33333333333333,
+    "carga_media_h": 74.3741935483871,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.3738775455303367,
+    "f_balanceamento": 3156.7829931972865,
+    "f_senioridade": 0.0,
+    "f_atendimento": 804.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 270.0
+   },
+   "manual": {
+    "desvio_padrao_medio_por_equipe": 26.932986297258825,
+    "amplitude_media_por_equipe": 77.36666666666666,
+    "carga_media_h": 72.67096774193547,
+    "carga_maxima_h": 123.19999999999997,
+    "carga_minima_h": 0.0,
+    "custo_F": 0.39060530715509073,
+    "f_balanceamento": 3118.3318820861778,
+    "f_senioridade": 0.0,
+    "f_atendimento": 846.0,
+    "alocacoes_superqualificadas": 0,
+    "violacoes_rigidas": 0.0,
+    "alocacoes": 264.0
+   }
+  }
+ }
+]

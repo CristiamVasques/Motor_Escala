@@ -1,0 +1,1948 @@
+{
+ "identicos": {
+  "estagios": [
+   {
+    "estagio": "1. Constru\u00e7\u00e3o Gulosa",
+    "tempo_s": 0.2172,
+    "alocacoes": 272,
+    "custo_F": 0.46846358179596287,
+    "ganho_absoluto": 0.0,
+    "ganho_percentual": 0.0,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 1.0,
+    "taxa_superqualificacao": 0.0,
+    "bruto_balanceamento": 3207.6029931972944,
+    "bruto_senioridade": 0.0,
+    "bruto_atendimento": 780.0
+   },
+   {
+    "estagio": "2. Hill Climbing",
+    "tempo_s": 0.8341,
+    "alocacoes": 303,
+    "custo_F": 0.2997481736083638,
+    "ganho_absoluto": 0.16871540818759906,
+    "ganho_percentual": 36.01462626844754,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.6129032258064516,
+    "taxa_superqualificacao": 0.0,
+    "bruto_balanceamento": 520.0249376418165,
+    "bruto_senioridade": 0.0,
+    "bruto_atendimento": 1386.0
+   },
+   {
+    "estagio": "3. Simulated Annealing",
+    "tempo_s": 2.3739,
+    "alocacoes": 303,
+    "custo_F": 0.29928330791224717,
+    "ganho_absoluto": 0.0004648656961166453,
+    "ganho_percentual": 0.15508541403959175,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.5161290322580645,
+    "taxa_superqualificacao": 0.0,
+    "bruto_balanceamento": 470.5829931973826,
+    "bruto_senioridade": 0.0,
+    "bruto_atendimento": 1412.0
+   },
+   {
+    "estagio": "4. CSP com Backtracking",
+    "tempo_s": 0.0316,
+    "alocacoes": 303,
+    "custo_F": 0.2992833079122469,
+    "ganho_absoluto": 2.7755575615628914e-16,
+    "ganho_percentual": 9.274013913187274e-14,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.5161290322580645,
+    "taxa_superqualificacao": 0.0,
+    "bruto_balanceamento": 470.5829931973799,
+    "bruto_senioridade": 0.0,
+    "bruto_atendimento": 1412.0
+   }
+  ],
+  "convergencia": [
+   {
+    "iteracao": 300,
+    "temperatura": 0.003393071741552563,
+    "custo_atual": 0.3201861425216364,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 45,
+    "aceitos_piores_acumulados": 15
+   },
+   {
+    "iteracao": 650,
+    "temperatura": 0.0030622472467511878,
+    "custo_atual": 0.34911787141650874,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 118,
+    "aceitos_piores_acumulados": 38
+   },
+   {
+    "iteracao": 900,
+    "temperatura": 0.002909134884413628,
+    "custo_atual": 0.3585587336628566,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 158,
+    "aceitos_piores_acumulados": 46
+   },
+   {
+    "iteracao": 1200,
+    "temperatura": 0.002625494233183299,
+    "custo_atual": 0.3605040806641851,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 220,
+    "aceitos_piores_acumulados": 60
+   },
+   {
+    "iteracao": 1700,
+    "temperatura": 0.002369508545447927,
+    "custo_atual": 0.36932807583790517,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 328,
+    "aceitos_piores_acumulados": 89
+   },
+   {
+    "iteracao": 1950,
+    "temperatura": 0.0022510331181755305,
+    "custo_atual": 0.38898871241998767,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 381,
+    "aceitos_piores_acumulados": 104
+   },
+   {
+    "iteracao": 2250,
+    "temperatura": 0.002031557389153416,
+    "custo_atual": 0.3925152138746256,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 442,
+    "aceitos_piores_acumulados": 120
+   },
+   {
+    "iteracao": 2400,
+    "temperatura": 0.001929979519695745,
+    "custo_atual": 0.38956661302625534,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 470,
+    "aceitos_piores_acumulados": 123
+   },
+   {
+    "iteracao": 2500,
+    "temperatura": 0.001929979519695745,
+    "custo_atual": 0.3821074620009502,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 496,
+    "aceitos_piores_acumulados": 125
+   },
+   {
+    "iteracao": 2600,
+    "temperatura": 0.0018334805437109577,
+    "custo_atual": 0.3781576531849033,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 530,
+    "aceitos_piores_acumulados": 133
+   },
+   {
+    "iteracao": 2650,
+    "temperatura": 0.0018334805437109577,
+    "custo_atual": 0.3764510919819131,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 541,
+    "aceitos_piores_acumulados": 134
+   },
+   {
+    "iteracao": 2800,
+    "temperatura": 0.0017418065165254097,
+    "custo_atual": 0.37180291362595197,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 574,
+    "aceitos_piores_acumulados": 146
+   },
+   {
+    "iteracao": 2950,
+    "temperatura": 0.0017418065165254097,
+    "custo_atual": 0.3635742863439414,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 611,
+    "aceitos_piores_acumulados": 152
+   },
+   {
+    "iteracao": 3000,
+    "temperatura": 0.001654716190699139,
+    "custo_atual": 0.36647188505318634,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 627,
+    "aceitos_piores_acumulados": 158
+   },
+   {
+    "iteracao": 3100,
+    "temperatura": 0.001654716190699139,
+    "custo_atual": 0.3683140992486263,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 650,
+    "aceitos_piores_acumulados": 163
+   },
+   {
+    "iteracao": 3200,
+    "temperatura": 0.001571980381164182,
+    "custo_atual": 0.36435561372011344,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 668,
+    "aceitos_piores_acumulados": 167
+   },
+   {
+    "iteracao": 3350,
+    "temperatura": 0.001571980381164182,
+    "custo_atual": 0.36655399638090985,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 702,
+    "aceitos_piores_acumulados": 172
+   },
+   {
+    "iteracao": 3400,
+    "temperatura": 0.0014933813621059728,
+    "custo_atual": 0.362588033360353,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 713,
+    "aceitos_piores_acumulados": 174
+   },
+   {
+    "iteracao": 3500,
+    "temperatura": 0.0014933813621059728,
+    "custo_atual": 0.3590149208415929,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 735,
+    "aceitos_piores_acumulados": 176
+   },
+   {
+    "iteracao": 3600,
+    "temperatura": 0.0014187122940006742,
+    "custo_atual": 0.35525416559796674,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 752,
+    "aceitos_piores_acumulados": 178
+   },
+   {
+    "iteracao": 3750,
+    "temperatura": 0.0014187122940006742,
+    "custo_atual": 0.3634289690457398,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 779,
+    "aceitos_piores_acumulados": 189
+   },
+   {
+    "iteracao": 3800,
+    "temperatura": 0.0013477766793006404,
+    "custo_atual": 0.36010719901897026,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 791,
+    "aceitos_piores_acumulados": 191
+   },
+   {
+    "iteracao": 3900,
+    "temperatura": 0.0013477766793006404,
+    "custo_atual": 0.3582268213971572,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 812,
+    "aceitos_piores_acumulados": 192
+   },
+   {
+    "iteracao": 3950,
+    "temperatura": 0.0013477766793006404,
+    "custo_atual": 0.35751836429722206,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 827,
+    "aceitos_piores_acumulados": 197
+   },
+   {
+    "iteracao": 4000,
+    "temperatura": 0.0012803878453356084,
+    "custo_atual": 0.30044823631575457,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 834,
+    "aceitos_piores_acumulados": 198
+   },
+   {
+    "iteracao": 4300,
+    "temperatura": 0.001216368453068828,
+    "custo_atual": 0.31363679444123127,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 888,
+    "aceitos_piores_acumulados": 210
+   },
+   {
+    "iteracao": 4550,
+    "temperatura": 0.0011555500304153866,
+    "custo_atual": 0.32616605508110685,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 929,
+    "aceitos_piores_acumulados": 217
+   },
+   {
+    "iteracao": 4700,
+    "temperatura": 0.0010977725288946172,
+    "custo_atual": 0.3248426357031535,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 951,
+    "aceitos_piores_acumulados": 219
+   },
+   {
+    "iteracao": 4750,
+    "temperatura": 0.0010977725288946172,
+    "custo_atual": 0.3240668279296205,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 958,
+    "aceitos_piores_acumulados": 221
+   },
+   {
+    "iteracao": 5150,
+    "temperatura": 0.000990739707327392,
+    "custo_atual": 0.32261317889933494,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1006,
+    "aceitos_piores_acumulados": 227
+   },
+   {
+    "iteracao": 5200,
+    "temperatura": 0.0009412027219610224,
+    "custo_atual": 0.3289993976559439,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1014,
+    "aceitos_piores_acumulados": 231
+   },
+   {
+    "iteracao": 5250,
+    "temperatura": 0.0009412027219610224,
+    "custo_atual": 0.3233047938185652,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1024,
+    "aceitos_piores_acumulados": 231
+   },
+   {
+    "iteracao": 5350,
+    "temperatura": 0.0009412027219610224,
+    "custo_atual": 0.3198111914337514,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1038,
+    "aceitos_piores_acumulados": 233
+   },
+   {
+    "iteracao": 6000,
+    "temperatura": 0.0007666154995542648,
+    "custo_atual": 0.32122821137198376,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1141,
+    "aceitos_piores_acumulados": 253
+   },
+   {
+    "iteracao": 6150,
+    "temperatura": 0.0007666154995542648,
+    "custo_atual": 0.3208518145413795,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1160,
+    "aceitos_piores_acumulados": 254
+   },
+   {
+    "iteracao": 6300,
+    "temperatura": 0.0007282847245765516,
+    "custo_atual": 0.3262233517361577,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1182,
+    "aceitos_piores_acumulados": 262
+   },
+   {
+    "iteracao": 6500,
+    "temperatura": 0.0006918704883477239,
+    "custo_atual": 0.32022045123573584,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1202,
+    "aceitos_piores_acumulados": 266
+   },
+   {
+    "iteracao": 6600,
+    "temperatura": 0.0006572769639303377,
+    "custo_atual": 0.3191895186052355,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1218,
+    "aceitos_piores_acumulados": 267
+   },
+   {
+    "iteracao": 6850,
+    "temperatura": 0.0006244131157338208,
+    "custo_atual": 0.3127206766750374,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1262,
+    "aceitos_piores_acumulados": 270
+   },
+   {
+    "iteracao": 6950,
+    "temperatura": 0.0006244131157338208,
+    "custo_atual": 0.3124558696135029,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1276,
+    "aceitos_piores_acumulados": 271
+   },
+   {
+    "iteracao": 7050,
+    "temperatura": 0.0005931924599471297,
+    "custo_atual": 0.309754149489332,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1287,
+    "aceitos_piores_acumulados": 271
+   },
+   {
+    "iteracao": 7100,
+    "temperatura": 0.0005931924599471297,
+    "custo_atual": 0.3101095155163398,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1291,
+    "aceitos_piores_acumulados": 272
+   },
+   {
+    "iteracao": 7300,
+    "temperatura": 0.0005635328369497732,
+    "custo_atual": 0.3112094652149016,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1307,
+    "aceitos_piores_acumulados": 275
+   },
+   {
+    "iteracao": 7450,
+    "temperatura": 0.0005353561951022845,
+    "custo_atual": 0.3136282746065944,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1319,
+    "aceitos_piores_acumulados": 279
+   },
+   {
+    "iteracao": 7500,
+    "temperatura": 0.0005353561951022845,
+    "custo_atual": 0.31309911878336655,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1326,
+    "aceitos_piores_acumulados": 279
+   },
+   {
+    "iteracao": 7700,
+    "temperatura": 0.0005085883853471703,
+    "custo_atual": 0.31314669969237685,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1349,
+    "aceitos_piores_acumulados": 282
+   },
+   {
+    "iteracao": 7750,
+    "temperatura": 0.0005085883853471703,
+    "custo_atual": 0.3138095158738954,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1355,
+    "aceitos_piores_acumulados": 284
+   },
+   {
+    "iteracao": 8150,
+    "temperatura": 0.0004590010177758212,
+    "custo_atual": 0.3133671094269217,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1409,
+    "aceitos_piores_acumulados": 287
+   },
+   {
+    "iteracao": 8400,
+    "temperatura": 0.0004142484185426786,
+    "custo_atual": 0.31318493396194813,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1440,
+    "aceitos_piores_acumulados": 289
+   },
+   {
+    "iteracao": 8450,
+    "temperatura": 0.0004142484185426786,
+    "custo_atual": 0.31231012048765167,
+    "custo_melhor": 0.2997481736083638,
+    "aceitos_acumulados": 1450,
+    "aceitos_piores_acumulados": 289
+   },
+   {
+    "iteracao": 8500,
+    "temperatura": 0.0004142484185426786,
+    "custo_atual": 0.29958601412945435,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1459,
+    "aceitos_piores_acumulados": 289
+   },
+   {
+    "iteracao": 8550,
+    "temperatura": 0.0004142484185426786,
+    "custo_atual": 0.29958601412945435,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1464,
+    "aceitos_piores_acumulados": 289
+   },
+   {
+    "iteracao": 8850,
+    "temperatura": 0.00037385919773476735,
+    "custo_atual": 0.30084514232742743,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1503,
+    "aceitos_piores_acumulados": 293
+   },
+   {
+    "iteracao": 9300,
+    "temperatura": 0.00033740792595562746,
+    "custo_atual": 0.30129625150782946,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1559,
+    "aceitos_piores_acumulados": 299
+   },
+   {
+    "iteracao": 9400,
+    "temperatura": 0.0003205375296578461,
+    "custo_atual": 0.30198786642705966,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1569,
+    "aceitos_piores_acumulados": 301
+   },
+   {
+    "iteracao": 9900,
+    "temperatura": 0.0002892851205162061,
+    "custo_atual": 0.3019878664270593,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1625,
+    "aceitos_piores_acumulados": 302
+   },
+   {
+    "iteracao": 10100,
+    "temperatura": 0.0002748208644903958,
+    "custo_atual": 0.3012962515078292,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1643,
+    "aceitos_piores_acumulados": 305
+   },
+   {
+    "iteracao": 10150,
+    "temperatura": 0.0002748208644903958,
+    "custo_atual": 0.30129625150782924,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1648,
+    "aceitos_piores_acumulados": 306
+   },
+   {
+    "iteracao": 10250,
+    "temperatura": 0.000261079821265876,
+    "custo_atual": 0.3012962515078292,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1657,
+    "aceitos_piores_acumulados": 306
+   },
+   {
+    "iteracao": 10450,
+    "temperatura": 0.00024802583020258216,
+    "custo_atual": 0.3012962515078292,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1681,
+    "aceitos_piores_acumulados": 309
+   },
+   {
+    "iteracao": 10500,
+    "temperatura": 0.00024802583020258216,
+    "custo_atual": 0.3012962515078292,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1683,
+    "aceitos_piores_acumulados": 309
+   },
+   {
+    "iteracao": 10550,
+    "temperatura": 0.00024802583020258216,
+    "custo_atual": 0.3013049989130826,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1689,
+    "aceitos_piores_acumulados": 310
+   },
+   {
+    "iteracao": 11050,
+    "temperatura": 0.00021265114616993884,
+    "custo_atual": 0.30076517374322986,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1750,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 11150,
+    "temperatura": 0.00021265114616993884,
+    "custo_atual": 0.30076517374322986,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1768,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 11250,
+    "temperatura": 0.00020201858886144188,
+    "custo_atual": 0.30076517374322986,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1780,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 11400,
+    "temperatura": 0.0001919176594183698,
+    "custo_atual": 0.30076517374322986,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1794,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 11450,
+    "temperatura": 0.0001919176594183698,
+    "custo_atual": 0.30076517374322986,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1802,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 11900,
+    "temperatura": 0.00017320568762507874,
+    "custo_atual": 0.2998508211909886,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1851,
+    "aceitos_piores_acumulados": 311
+   },
+   {
+    "iteracao": 12100,
+    "temperatura": 0.0001645454032438248,
+    "custo_atual": 0.3001877314368038,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1871,
+    "aceitos_piores_acumulados": 312
+   },
+   {
+    "iteracao": 12400,
+    "temperatura": 0.00014850222642755185,
+    "custo_atual": 0.3004301854387861,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1901,
+    "aceitos_piores_acumulados": 313
+   },
+   {
+    "iteracao": 13000,
+    "temperatura": 0.00012732209638332225,
+    "custo_atual": 0.29958601412945435,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1969,
+    "aceitos_piores_acumulados": 313
+   },
+   {
+    "iteracao": 13050,
+    "temperatura": 0.00012732209638332225,
+    "custo_atual": 0.2999413801564622,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 1975,
+    "aceitos_piores_acumulados": 314
+   },
+   {
+    "iteracao": 13350,
+    "temperatura": 0.00012095599156415612,
+    "custo_atual": 0.2999413801564622,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2001,
+    "aceitos_piores_acumulados": 314
+   },
+   {
+    "iteracao": 13450,
+    "temperatura": 0.00011490819198594832,
+    "custo_atual": 0.3001035396353716,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2012,
+    "aceitos_piores_acumulados": 315
+   },
+   {
+    "iteracao": 13650,
+    "temperatura": 0.00010916278238665089,
+    "custo_atual": 0.3001035396353716,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2031,
+    "aceitos_piores_acumulados": 315
+   },
+   {
+    "iteracao": 13900,
+    "temperatura": 0.00010370464326731834,
+    "custo_atual": 0.3001035396353716,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2049,
+    "aceitos_piores_acumulados": 315
+   },
+   {
+    "iteracao": 14300,
+    "temperatura": 9.35934405487548e-05,
+    "custo_atual": 0.2999413801564624,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2091,
+    "aceitos_piores_acumulados": 316
+   },
+   {
+    "iteracao": 14400,
+    "temperatura": 8.891376852131705e-05,
+    "custo_atual": 0.2999413801564625,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2104,
+    "aceitos_piores_acumulados": 317
+   },
+   {
+    "iteracao": 14650,
+    "temperatura": 8.44680800952512e-05,
+    "custo_atual": 0.3002782904022778,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2136,
+    "aceitos_piores_acumulados": 320
+   },
+   {
+    "iteracao": 14700,
+    "temperatura": 8.44680800952512e-05,
+    "custo_atual": 0.3002782904022778,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2142,
+    "aceitos_piores_acumulados": 320
+   },
+   {
+    "iteracao": 14850,
+    "temperatura": 8.024467609048863e-05,
+    "custo_atual": 0.300278290402278,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2156,
+    "aceitos_piores_acumulados": 322
+   },
+   {
+    "iteracao": 15250,
+    "temperatura": 7.242082017166599e-05,
+    "custo_atual": 0.29992292437527046,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2199,
+    "aceitos_piores_acumulados": 324
+   },
+   {
+    "iteracao": 15400,
+    "temperatura": 6.879977916308269e-05,
+    "custo_atual": 0.29992292437527046,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2211,
+    "aceitos_piores_acumulados": 324
+   },
+   {
+    "iteracao": 15600,
+    "temperatura": 6.535979020492855e-05,
+    "custo_atual": 0.29992292437527046,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2230,
+    "aceitos_piores_acumulados": 324
+   },
+   {
+    "iteracao": 15700,
+    "temperatura": 6.535979020492855e-05,
+    "custo_atual": 0.2995860141294553,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2241,
+    "aceitos_piores_acumulados": 324
+   },
+   {
+    "iteracao": 15900,
+    "temperatura": 6.209180069468212e-05,
+    "custo_atual": 0.2995860141294553,
+    "custo_melhor": 0.29958601412945435,
+    "aceitos_acumulados": 2261,
+    "aceitos_piores_acumulados": 324
+   },
+   {
+    "iteracao": 16300,
+    "temperatura": 5.6037850126950605e-05,
+    "custo_atual": 0.29928330791224717,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2303,
+    "aceitos_piores_acumulados": 326
+   },
+   {
+    "iteracao": 16450,
+    "temperatura": 5.3235957620603075e-05,
+    "custo_atual": 0.29928330791224733,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2320,
+    "aceitos_piores_acumulados": 328
+   },
+   {
+    "iteracao": 16500,
+    "temperatura": 5.3235957620603075e-05,
+    "custo_atual": 0.29928330791224733,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2322,
+    "aceitos_piores_acumulados": 328
+   },
+   {
+    "iteracao": 16600,
+    "temperatura": 5.057415973957292e-05,
+    "custo_atual": 0.29928330791224755,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2332,
+    "aceitos_piores_acumulados": 330
+   },
+   {
+    "iteracao": 16750,
+    "temperatura": 5.057415973957292e-05,
+    "custo_atual": 0.29928330791224766,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2344,
+    "aceitos_piores_acumulados": 331
+   },
+   {
+    "iteracao": 16900,
+    "temperatura": 4.8045451752594275e-05,
+    "custo_atual": 0.29928330791224766,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2365,
+    "aceitos_piores_acumulados": 331
+   },
+   {
+    "iteracao": 16950,
+    "temperatura": 4.8045451752594275e-05,
+    "custo_atual": 0.29928330791224766,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2376,
+    "aceitos_piores_acumulados": 331
+   },
+   {
+    "iteracao": 17050,
+    "temperatura": 4.564317916496456e-05,
+    "custo_atual": 0.29928330791224766,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2386,
+    "aceitos_piores_acumulados": 331
+   },
+   {
+    "iteracao": 17150,
+    "temperatura": 4.564317916496456e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2404,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 17250,
+    "temperatura": 4.3361020206716326e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2416,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 17350,
+    "temperatura": 4.3361020206716326e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2434,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 17400,
+    "temperatura": 4.119296919638051e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2442,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 17600,
+    "temperatura": 3.913332073656148e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2459,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 17750,
+    "temperatura": 3.913332073656148e-05,
+    "custo_atual": 0.29928330791224783,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2479,
+    "aceitos_piores_acumulados": 333
+   },
+   {
+    "iteracao": 18000,
+    "temperatura": 3.531782196474673e-05,
+    "custo_atual": 0.29928330791224794,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2500,
+    "aceitos_piores_acumulados": 334
+   },
+   {
+    "iteracao": 18150,
+    "temperatura": 3.531782196474673e-05,
+    "custo_atual": 0.299283307912248,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2513,
+    "aceitos_piores_acumulados": 335
+   },
+   {
+    "iteracao": 18200,
+    "temperatura": 3.355193086650939e-05,
+    "custo_atual": 0.299283307912248,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2516,
+    "aceitos_piores_acumulados": 335
+   },
+   {
+    "iteracao": 18250,
+    "temperatura": 3.355193086650939e-05,
+    "custo_atual": 0.299283307912248,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2521,
+    "aceitos_piores_acumulados": 335
+   },
+   {
+    "iteracao": 18600,
+    "temperatura": 3.028061760702472e-05,
+    "custo_atual": 0.2992833079122482,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2558,
+    "aceitos_piores_acumulados": 337
+   },
+   {
+    "iteracao": 18750,
+    "temperatura": 3.028061760702472e-05,
+    "custo_atual": 0.2992833079122482,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2568,
+    "aceitos_piores_acumulados": 337
+   },
+   {
+    "iteracao": 18850,
+    "temperatura": 2.8766586726673484e-05,
+    "custo_atual": 0.2992833079122482,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2584,
+    "aceitos_piores_acumulados": 337
+   },
+   {
+    "iteracao": 19000,
+    "temperatura": 2.732825739033981e-05,
+    "custo_atual": 0.2992833079122483,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2607,
+    "aceitos_piores_acumulados": 338
+   },
+   {
+    "iteracao": 19050,
+    "temperatura": 2.732825739033981e-05,
+    "custo_atual": 0.2992833079122484,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2614,
+    "aceitos_piores_acumulados": 339
+   },
+   {
+    "iteracao": 19100,
+    "temperatura": 2.732825739033981e-05,
+    "custo_atual": 0.2992833079122484,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2619,
+    "aceitos_piores_acumulados": 339
+   },
+   {
+    "iteracao": 19350,
+    "temperatura": 2.596184452082282e-05,
+    "custo_atual": 0.2992833079122484,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2647,
+    "aceitos_piores_acumulados": 339
+   },
+   {
+    "iteracao": 19700,
+    "temperatura": 2.343056468004259e-05,
+    "custo_atual": 0.2992833079122484,
+    "custo_melhor": 0.29928330791224717,
+    "aceitos_acumulados": 2683,
+    "aceitos_piores_acumulados": 339
+   }
+  ],
+  "cargas": {
+   "A001": 87.99999999999999,
+   "A002": 87.99999999999999,
+   "A003": 87.99999999999999,
+   "A004": 87.99999999999999,
+   "A005": 87.99999999999999,
+   "A006": 87.99999999999999,
+   "A007": 87.99999999999999,
+   "A008": 70.39999999999999,
+   "A009": 123.19999999999997,
+   "A010": 114.39999999999998,
+   "A011": 114.39999999999998,
+   "A012": 87.99999999999999,
+   "A013": 87.99999999999999,
+   "A014": 87.99999999999999,
+   "A015": 87.99999999999999,
+   "A016": 87.99999999999999,
+   "A017": 87.99999999999999,
+   "A018": 87.99999999999999,
+   "A019": 96.79999999999998,
+   "A020": 87.99999999999999,
+   "A021": 87.99999999999999,
+   "A022": 87.99999999999999,
+   "A023": 70.39999999999999,
+   "A024": 73.33333333333334,
+   "A025": 73.33333333333334,
+   "A026": 73.33333333333334,
+   "A027": 66.00000000000001,
+   "A028": 66.00000000000001,
+   "A029": 44.00000000000001,
+   "A030": 44.00000000000001,
+   "A031": 44.00000000000001
+  },
+  "sa": {
+   "iteracoes": 20000,
+   "avaliados": 5502,
+   "aceitos": 2706,
+   "piores_aceitos": 341,
+   "aceitacao": 0.49182115594329334,
+   "t0": 0.003571654464792172,
+   "custo_inicial": 0.2997481736083638,
+   "custo_final": 0.29928330791224717,
+   "limites": {
+    "balanceamento": [
+     0.0,
+     3241.2717233560315
+    ],
+    "senioridade": [
+     0.0,
+     8.0
+    ],
+    "atendimento": [
+     0.0,
+     1876.0
+    ]
+   }
+  }
+ },
+ "lambda08": {
+  "estagios": [
+   {
+    "estagio": "1. Constru\u00e7\u00e3o Gulosa",
+    "tempo_s": 0.2197,
+    "alocacoes": 272,
+    "custo_F": 0.530545100037066,
+    "ganho_absoluto": 0.0,
+    "ganho_percentual": 0.0,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 1.0,
+    "taxa_superqualificacao": 0.0,
+    "bruto_balanceamento": 3207.6029931972944,
+    "bruto_senioridade": 0.0,
+    "bruto_atendimento": 780.0
+   },
+   {
+    "estagio": "2. Hill Climbing",
+    "tempo_s": 0.199,
+    "alocacoes": 275,
+    "custo_F": 0.5032793760431453,
+    "ganho_absoluto": 0.027265723993920687,
+    "ganho_percentual": 5.139190615843176,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.6129032258064516,
+    "taxa_superqualificacao": 0.12121212121212122,
+    "bruto_balanceamento": 2281.952993197304,
+    "bruto_senioridade": 4.0,
+    "bruto_atendimento": 850.0
+   },
+   {
+    "estagio": "3. Simulated Annealing",
+    "tempo_s": 2.3736,
+    "alocacoes": 276,
+    "custo_F": 0.4761714210246822,
+    "ganho_absoluto": 0.027107955018463137,
+    "ganho_percentual": 5.386263834530588,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.5483870967741935,
+    "taxa_superqualificacao": 0.3333333333333333,
+    "bruto_balanceamento": 1649.1229931972005,
+    "bruto_senioridade": 12.0,
+    "bruto_atendimento": 878.0
+   },
+   {
+    "estagio": "4. CSP com Backtracking",
+    "tempo_s": 0.0306,
+    "alocacoes": 276,
+    "custo_F": 0.4761714210246822,
+    "ganho_absoluto": 0.0,
+    "ganho_percentual": 0.0,
+    "violacoes_rigidas": 0,
+    "taxa_desequilibrio": 0.5483870967741935,
+    "taxa_superqualificacao": 0.3333333333333333,
+    "bruto_balanceamento": 1649.1229931972005,
+    "bruto_senioridade": 12.0,
+    "bruto_atendimento": 878.0
+   }
+  ],
+  "convergencia": [
+   {
+    "iteracao": 100,
+    "temperatura": 0.0018690981675509755,
+    "custo_atual": 0.5140606989611579,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 16,
+    "aceitos_piores_acumulados": 5
+   },
+   {
+    "iteracao": 300,
+    "temperatura": 0.0017756432591734266,
+    "custo_atual": 0.5185662609346458,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 43,
+    "aceitos_piores_acumulados": 11
+   },
+   {
+    "iteracao": 450,
+    "temperatura": 0.0016868610962147551,
+    "custo_atual": 0.5235248112833317,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 61,
+    "aceitos_piores_acumulados": 16
+   },
+   {
+    "iteracao": 600,
+    "temperatura": 0.0016025180414040174,
+    "custo_atual": 0.538368612761688,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 86,
+    "aceitos_piores_acumulados": 22
+   },
+   {
+    "iteracao": 850,
+    "temperatura": 0.0015223921393338164,
+    "custo_atual": 0.5423416786325942,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 137,
+    "aceitos_piores_acumulados": 30
+   },
+   {
+    "iteracao": 1050,
+    "temperatura": 0.0014462725323671256,
+    "custo_atual": 0.531294509799967,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 159,
+    "aceitos_piores_acumulados": 33
+   },
+   {
+    "iteracao": 1200,
+    "temperatura": 0.0013739589057487692,
+    "custo_atual": 0.5260746422670728,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 181,
+    "aceitos_piores_acumulados": 37
+   },
+   {
+    "iteracao": 1850,
+    "temperatura": 0.0011779980168163508,
+    "custo_atual": 0.5072075542197687,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 267,
+    "aceitos_piores_acumulados": 45
+   },
+   {
+    "iteracao": 2150,
+    "temperatura": 0.0011190981159755332,
+    "custo_atual": 0.5129339512511104,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 316,
+    "aceitos_piores_acumulados": 54
+   },
+   {
+    "iteracao": 2500,
+    "temperatura": 0.0010099860496679187,
+    "custo_atual": 0.5093738749637611,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 359,
+    "aceitos_piores_acumulados": 56
+   },
+   {
+    "iteracao": 2900,
+    "temperatura": 0.0009115124098252966,
+    "custo_atual": 0.5066457898590344,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 406,
+    "aceitos_piores_acumulados": 62
+   },
+   {
+    "iteracao": 3050,
+    "temperatura": 0.0008659367893340317,
+    "custo_atual": 0.5074753682215991,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 418,
+    "aceitos_piores_acumulados": 63
+   },
+   {
+    "iteracao": 3200,
+    "temperatura": 0.0008226399498673301,
+    "custo_atual": 0.5072045281773767,
+    "custo_melhor": 0.5032793760431453,
+    "aceitos_acumulados": 434,
+    "aceitos_piores_acumulados": 66
+   },
+   {
+    "iteracao": 3300,
+    "temperatura": 0.0008226399498673301,
+    "custo_atual": 0.5021848600028375,
+    "custo_melhor": 0.5021848600028375,
+    "aceitos_acumulados": 453,
+    "aceitos_piores_acumulados": 66
+   },
+   {
+    "iteracao": 3400,
+    "temperatura": 0.0007815079523739635,
+    "custo_atual": 0.5033083461281392,
+    "custo_melhor": 0.4996250181983522,
+    "aceitos_acumulados": 469,
+    "aceitos_piores_acumulados": 69
+   },
+   {
+    "iteracao": 3450,
+    "temperatura": 0.0007815079523739635,
+    "custo_atual": 0.5033083461281392,
+    "custo_melhor": 0.4996250181983522,
+    "aceitos_acumulados": 473,
+    "aceitos_piores_acumulados": 69
+   },
+   {
+    "iteracao": 3800,
+    "temperatura": 0.0007053109270175019,
+    "custo_atual": 0.4947909259021333,
+    "custo_melhor": 0.4947909259021333,
+    "aceitos_acumulados": 522,
+    "aceitos_piores_acumulados": 72
+   },
+   {
+    "iteracao": 3850,
+    "temperatura": 0.0007053109270175019,
+    "custo_atual": 0.49479092590213336,
+    "custo_melhor": 0.4947909259021333,
+    "aceitos_acumulados": 529,
+    "aceitos_piores_acumulados": 73
+   },
+   {
+    "iteracao": 4250,
+    "temperatura": 0.0006365431116332954,
+    "custo_atual": 0.4947363894545106,
+    "custo_melhor": 0.49251946843732886,
+    "aceitos_acumulados": 568,
+    "aceitos_piores_acumulados": 77
+   },
+   {
+    "iteracao": 4650,
+    "temperatura": 0.000574480158249049,
+    "custo_atual": 0.49151762540775945,
+    "custo_melhor": 0.49151762540775945,
+    "aceitos_acumulados": 615,
+    "aceitos_piores_acumulados": 79
+   },
+   {
+    "iteracao": 4700,
+    "temperatura": 0.000574480158249049,
+    "custo_atual": 0.4927122182498526,
+    "custo_melhor": 0.49151762540775945,
+    "aceitos_acumulados": 624,
+    "aceitos_piores_acumulados": 80
+   },
+   {
+    "iteracao": 4750,
+    "temperatura": 0.000574480158249049,
+    "custo_atual": 0.4927122182498526,
+    "custo_melhor": 0.49151762540775945,
+    "aceitos_acumulados": 629,
+    "aceitos_piores_acumulados": 80
+   },
+   {
+    "iteracao": 4850,
+    "temperatura": 0.0005457561503365966,
+    "custo_atual": 0.48949857548948167,
+    "custo_melhor": 0.48949857548948167,
+    "aceitos_acumulados": 641,
+    "aceitos_piores_acumulados": 82
+   },
+   {
+    "iteracao": 4900,
+    "temperatura": 0.0005457561503365966,
+    "custo_atual": 0.48949857548948167,
+    "custo_melhor": 0.48949857548948167,
+    "aceitos_acumulados": 646,
+    "aceitos_piores_acumulados": 82
+   },
+   {
+    "iteracao": 5150,
+    "temperatura": 0.0005184683428197667,
+    "custo_atual": 0.49003585463601423,
+    "custo_melhor": 0.488668997126917,
+    "aceitos_acumulados": 675,
+    "aceitos_piores_acumulados": 85
+   },
+   {
+    "iteracao": 5250,
+    "temperatura": 0.0004925449256787783,
+    "custo_atual": 0.4900358546360141,
+    "custo_melhor": 0.488668997126917,
+    "aceitos_acumulados": 689,
+    "aceitos_piores_acumulados": 86
+   },
+   {
+    "iteracao": 5300,
+    "temperatura": 0.0004925449256787783,
+    "custo_atual": 0.49066756189967464,
+    "custo_melhor": 0.488668997126917,
+    "aceitos_acumulados": 698,
+    "aceitos_piores_acumulados": 87
+   },
+   {
+    "iteracao": 6250,
+    "temperatura": 0.0003811218743525929,
+    "custo_atual": 0.49317959708962134,
+    "custo_melhor": 0.488668997126917,
+    "aceitos_acumulados": 805,
+    "aceitos_piores_acumulados": 96
+   },
+   {
+    "iteracao": 6850,
+    "temperatura": 0.00032676436702305426,
+    "custo_atual": 0.4891312546803056,
+    "custo_melhor": 0.488668997126917,
+    "aceitos_acumulados": 869,
+    "aceitos_piores_acumulados": 101
+   },
+   {
+    "iteracao": 7150,
+    "temperatura": 0.00031042614867190154,
+    "custo_atual": 0.4897859025057086,
+    "custo_melhor": 0.4873967168215224,
+    "aceitos_acumulados": 906,
+    "aceitos_piores_acumulados": 103
+   },
+   {
+    "iteracao": 7500,
+    "temperatura": 0.0002801595991763911,
+    "custo_atual": 0.48739671682152186,
+    "custo_melhor": 0.4873967168215224,
+    "aceitos_acumulados": 940,
+    "aceitos_piores_acumulados": 104
+   },
+   {
+    "iteracao": 7600,
+    "temperatura": 0.00026615161921757154,
+    "custo_atual": 0.4862021239794288,
+    "custo_melhor": 0.48620212397942875,
+    "aceitos_acumulados": 952,
+    "aceitos_piores_acumulados": 105
+   },
+   {
+    "iteracao": 7700,
+    "temperatura": 0.00026615161921757154,
+    "custo_atual": 0.4862021239794288,
+    "custo_melhor": 0.48620212397942875,
+    "aceitos_acumulados": 957,
+    "aceitos_piores_acumulados": 106
+   },
+   {
+    "iteracao": 7850,
+    "temperatura": 0.00025284403825669296,
+    "custo_atual": 0.48500753113733563,
+    "custo_melhor": 0.4850075311373357,
+    "aceitos_acumulados": 972,
+    "aceitos_piores_acumulados": 106
+   },
+   {
+    "iteracao": 8050,
+    "temperatura": 0.0002402018363438583,
+    "custo_atual": 0.48500753113733563,
+    "custo_melhor": 0.4850075311373357,
+    "aceitos_acumulados": 993,
+    "aceitos_piores_acumulados": 107
+   },
+   {
+    "iteracao": 8200,
+    "temperatura": 0.00022819174452666537,
+    "custo_atual": 0.48500753113733563,
+    "custo_melhor": 0.4850075311373357,
+    "aceitos_acumulados": 1007,
+    "aceitos_piores_acumulados": 107
+   },
+   {
+    "iteracao": 8300,
+    "temperatura": 0.00022819174452666537,
+    "custo_atual": 0.48500753113733563,
+    "custo_melhor": 0.4850075311373357,
+    "aceitos_acumulados": 1025,
+    "aceitos_piores_acumulados": 107
+   },
+   {
+    "iteracao": 8750,
+    "temperatura": 0.00020594304943531548,
+    "custo_atual": 0.48583710949990033,
+    "custo_melhor": 0.4850075311373357,
+    "aceitos_acumulados": 1068,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 8800,
+    "temperatura": 0.0001956458969635497,
+    "custo_atual": 0.48447025199080285,
+    "custo_melhor": 0.48447025199080285,
+    "aceitos_acumulados": 1075,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 9200,
+    "temperatura": 0.00017657042200960358,
+    "custo_atual": 0.48447025199080285,
+    "custo_melhor": 0.48447025199080285,
+    "aceitos_acumulados": 1113,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 9400,
+    "temperatura": 0.0001677419009091234,
+    "custo_atual": 0.4836406736282382,
+    "custo_melhor": 0.4836406736282382,
+    "aceitos_acumulados": 1138,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 9600,
+    "temperatura": 0.00015935480586366723,
+    "custo_atual": 0.4836406736282382,
+    "custo_melhor": 0.4836406736282382,
+    "aceitos_acumulados": 1160,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 9900,
+    "temperatura": 0.00015138706557048386,
+    "custo_atual": 0.4805680591895032,
+    "custo_melhor": 0.4805680591895032,
+    "aceitos_acumulados": 1186,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 9950,
+    "temperatura": 0.00015138706557048386,
+    "custo_atual": 0.4805680591895032,
+    "custo_melhor": 0.4805680591895032,
+    "aceitos_acumulados": 1193,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 10000,
+    "temperatura": 0.00014381771229195968,
+    "custo_atual": 0.4805680591895032,
+    "custo_melhor": 0.4805680591895032,
+    "aceitos_acumulados": 1202,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 10200,
+    "temperatura": 0.0001366268266773617,
+    "custo_atual": 0.4805680591895032,
+    "custo_melhor": 0.4805680591895032,
+    "aceitos_acumulados": 1220,
+    "aceitos_piores_acumulados": 109
+   },
+   {
+    "iteracao": 10250,
+    "temperatura": 0.0001366268266773617,
+    "custo_atual": 0.4805680591895033,
+    "custo_melhor": 0.4805680591895032,
+    "aceitos_acumulados": 1225,
+    "aceitos_piores_acumulados": 110
+   },
+   {
+    "iteracao": 10650,
+    "temperatura": 0.0001233057110763189,
+    "custo_atual": 0.47716496827062593,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1275,
+    "aceitos_piores_acumulados": 111
+   },
+   {
+    "iteracao": 10800,
+    "temperatura": 0.00011714042552250296,
+    "custo_atual": 0.47716496827062593,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1298,
+    "aceitos_piores_acumulados": 111
+   },
+   {
+    "iteracao": 10900,
+    "temperatura": 0.00011714042552250296,
+    "custo_atual": 0.47716496827062593,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1313,
+    "aceitos_piores_acumulados": 111
+   },
+   {
+    "iteracao": 11600,
+    "temperatura": 9.541160871573816e-05,
+    "custo_atual": 0.4771649682706258,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1391,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12050,
+    "temperatura": 8.610897686595368e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1432,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12100,
+    "temperatura": 8.610897686595368e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1440,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12350,
+    "temperatura": 8.1803528022656e-05,
+    "custo_atual": 0.4771649682706255,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1468,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12550,
+    "temperatura": 7.771335162152319e-05,
+    "custo_atual": 0.4771649682706255,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1491,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12650,
+    "temperatura": 7.382768404044703e-05,
+    "custo_atual": 0.4771649682706254,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1500,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 12850,
+    "temperatura": 7.013629983842467e-05,
+    "custo_atual": 0.4771649682706254,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1525,
+    "aceitos_piores_acumulados": 112
+   },
+   {
+    "iteracao": 13300,
+    "temperatura": 6.329801060417825e-05,
+    "custo_atual": 0.47716496827062527,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1571,
+    "aceitos_piores_acumulados": 114
+   },
+   {
+    "iteracao": 13400,
+    "temperatura": 6.013311007396934e-05,
+    "custo_atual": 0.47716496827062527,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1578,
+    "aceitos_piores_acumulados": 114
+   },
+   {
+    "iteracao": 13700,
+    "temperatura": 5.7126454570270865e-05,
+    "custo_atual": 0.47716496827062527,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1609,
+    "aceitos_piores_acumulados": 114
+   },
+   {
+    "iteracao": 14150,
+    "temperatura": 5.155662524966945e-05,
+    "custo_atual": 0.47716496827062527,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1651,
+    "aceitos_piores_acumulados": 114
+   },
+   {
+    "iteracao": 14900,
+    "temperatura": 4.199319349476356e-05,
+    "custo_atual": 0.47716496827062505,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1732,
+    "aceitos_piores_acumulados": 115
+   },
+   {
+    "iteracao": 15150,
+    "temperatura": 3.989353382002538e-05,
+    "custo_atual": 0.47716496827062505,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1754,
+    "aceitos_piores_acumulados": 115
+   },
+   {
+    "iteracao": 15350,
+    "temperatura": 3.789885712902411e-05,
+    "custo_atual": 0.47716496827062493,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1782,
+    "aceitos_piores_acumulados": 115
+   },
+   {
+    "iteracao": 15400,
+    "temperatura": 3.6003914272572906e-05,
+    "custo_atual": 0.47716496827062493,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1787,
+    "aceitos_piores_acumulados": 115
+   },
+   {
+    "iteracao": 15500,
+    "temperatura": 3.6003914272572906e-05,
+    "custo_atual": 0.47716496827062493,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1802,
+    "aceitos_piores_acumulados": 116
+   },
+   {
+    "iteracao": 15600,
+    "temperatura": 3.420371855894426e-05,
+    "custo_atual": 0.47716496827062493,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1811,
+    "aceitos_piores_acumulados": 116
+   },
+   {
+    "iteracao": 15750,
+    "temperatura": 3.420371855894426e-05,
+    "custo_atual": 0.4771649682706258,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1827,
+    "aceitos_piores_acumulados": 116
+   },
+   {
+    "iteracao": 16100,
+    "temperatura": 3.086885599944719e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1869,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16150,
+    "temperatura": 3.086885599944719e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1875,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16200,
+    "temperatura": 2.932541319947483e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1879,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16350,
+    "temperatura": 2.932541319947483e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1887,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16400,
+    "temperatura": 2.785914253950109e-05,
+    "custo_atual": 0.4771649682706257,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1899,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16550,
+    "temperatura": 2.785914253950109e-05,
+    "custo_atual": 0.4771649682706256,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1913,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16800,
+    "temperatura": 2.514287614189973e-05,
+    "custo_atual": 0.4771649682706256,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1951,
+    "aceitos_piores_acumulados": 117
+   },
+   {
+    "iteracao": 16950,
+    "temperatura": 2.514287614189973e-05,
+    "custo_atual": 0.4771649682706255,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1962,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 17000,
+    "temperatura": 2.3885732334804743e-05,
+    "custo_atual": 0.4771649682706255,
+    "custo_melhor": 0.47716496827062593,
+    "aceitos_acumulados": 1967,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 17200,
+    "temperatura": 2.2691445718064504e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 1983,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 17500,
+    "temperatura": 2.1556873432161278e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2020,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 17650,
+    "temperatura": 2.0479029760553212e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2039,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 17700,
+    "temperatura": 2.0479029760553212e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2042,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 18100,
+    "temperatura": 1.8482324358899274e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2086,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 18200,
+    "temperatura": 1.7558208140954308e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2099,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 18250,
+    "temperatura": 1.7558208140954308e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2103,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 18600,
+    "temperatura": 1.5846282847211263e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2135,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 18750,
+    "temperatura": 1.5846282847211263e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2151,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19050,
+    "temperatura": 1.4301270269608164e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2179,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19250,
+    "temperatura": 1.3586206756127755e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2199,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19400,
+    "temperatura": 1.2906896418321367e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2211,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19550,
+    "temperatura": 1.2906896418321367e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2226,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19600,
+    "temperatura": 1.2261551597405298e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2231,
+    "aceitos_piores_acumulados": 118
+   },
+   {
+    "iteracao": 19850,
+    "temperatura": 1.1648474017535033e-05,
+    "custo_atual": 0.4761714210246822,
+    "custo_melhor": 0.4761714210246822,
+    "aceitos_acumulados": 2260,
+    "aceitos_piores_acumulados": 118
+   }
+  ],
+  "cargas": {
+   "A001": 87.99999999999999,
+   "A002": 87.99999999999999,
+   "A003": 79.19999999999999,
+   "A004": 87.99999999999999,
+   "A005": 79.19999999999999,
+   "A006": 87.99999999999999,
+   "A007": 87.99999999999999,
+   "A008": 52.8,
+   "A009": 123.19999999999997,
+   "A010": 114.39999999999998,
+   "A011": 114.39999999999998,
+   "A012": 87.99999999999999,
+   "A013": 87.99999999999999,
+   "A014": 87.99999999999999,
+   "A015": 87.99999999999999,
+   "A016": 87.99999999999999,
+   "A017": 79.19999999999999,
+   "A018": 87.99999999999999,
+   "A019": 79.19999999999999,
+   "A020": 87.99999999999999,
+   "A021": 87.99999999999999,
+   "A022": 87.99999999999999,
+   "A023": 52.8,
+   "A024": 66.00000000000001,
+   "A025": 73.33333333333334,
+   "A026": 73.33333333333334,
+   "A027": 66.00000000000001,
+   "A028": 73.33333333333334,
+   "A029": -1.7763568394002505e-15,
+   "A030": -1.7763568394002505e-15,
+   "A031": 0.0
+  },
+  "sa": {
+   "iteracoes": 20000,
+   "avaliados": 4826,
+   "aceitos": 2285,
+   "piores_aceitos": 118,
+   "aceitacao": 0.4734769995855781,
+   "t0": 0.0018690981675509755,
+   "custo_inicial": 0.5032793760431453,
+   "custo_final": 0.4761714210246822,
+   "limites": {
+    "balanceamento": [
+     0.0,
+     3241.2717233560315
+    ],
+    "senioridade": [
+     0.0,
+     8.0
+    ],
+    "atendimento": [
+     0.0,
+     1876.0
+    ]
+   }
+  }
+ },
+ "manual": {
+  "cargas": {
+   "A001": 79.19999999999999,
+   "A002": 87.99999999999999,
+   "A003": 96.79999999999998,
+   "A004": 87.99999999999999,
+   "A005": 70.39999999999999,
+   "A006": 87.99999999999999,
+   "A007": 87.99999999999999,
+   "A008": 0.0,
+   "A009": 123.19999999999997,
+   "A010": 114.39999999999998,
+   "A011": 114.39999999999998,
+   "A012": 87.99999999999999,
+   "A013": 87.99999999999999,
+   "A014": 87.99999999999999,
+   "A015": 87.99999999999999,
+   "A016": 79.19999999999999,
+   "A017": 87.99999999999999,
+   "A018": 96.79999999999998,
+   "A019": 87.99999999999999,
+   "A020": 70.39999999999999,
+   "A021": 87.99999999999999,
+   "A022": 87.99999999999999,
+   "A023": 0.0,
+   "A024": 66.00000000000001,
+   "A025": 73.33333333333334,
+   "A026": 80.66666666666667,
+   "A027": 73.33333333333334,
+   "A028": 58.66666666666668,
+   "A029": 0.0,
+   "A030": 0.0,
+   "A031": 0.0
+  }
+ },
+ "equipes": {
+  "MATUTINO": [
+   "A001",
+   "A002",
+   "A003",
+   "A004",
+   "A005",
+   "A006",
+   "A007",
+   "A008"
+  ],
+  "COMERCIAL": [
+   "A009",
+   "A010",
+   "A011",
+   "A012",
+   "A013",
+   "A014",
+   "A015"
+  ],
+  "VESPERTINO": [
+   "A016",
+   "A017",
+   "A018",
+   "A019",
+   "A020",
+   "A021",
+   "A022",
+   "A023"
+  ],
+  "NOTURNO": [
+   "A024",
+   "A025",
+   "A026",
+   "A027",
+   "A028",
+   "A029",
+   "A030",
+   "A031"
+  ]
+ }
+}
